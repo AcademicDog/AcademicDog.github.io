@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# 捐赠
 
-You can use the [editor on GitHub](https://github.com/AcademicDog/AcademicDog.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+量力而行，1分就够。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img align="right" height="150" src="https://onmyojibot.oss-cn-beijing.aliyuncs.com/donate/any.jpg" />
 
-### Markdown
+<img align="right" height="150" src="https://onmyojibot.oss-cn-beijing.aliyuncs.com/donate/1.jpg"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img align="right" height="150" src="https://onmyojibot.oss-cn-beijing.aliyuncs.com/donate/0.01.jpg" />
 
-```markdown
-Syntax highlighted code block
+同时请备注id，将来你的id会出现在赞助者名单中。
 
-# Header 1
-## Header 2
-### Header 3
+# 赞助者名单
+排名不分先后，id有误可以凭借单号联系更改
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AcademicDog/AcademicDog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|编号|ID|日期|时间|
+|:-|:-|:-|:-|
+|1|可以啊|20200307|15:23|
+|2|Ryan|20200307|15:30|
+|3|zS1m|20200307|15:31|
+|4|一芦~以航|20200307|15:35|
+|5|mic|20200307|16:46|
+|6|将安在|20200307|20:06|
+|7|牧羊人的守望|20200307|20:08|
